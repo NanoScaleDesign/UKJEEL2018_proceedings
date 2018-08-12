@@ -1,0 +1,19 @@
+%\pagenumbering{arabic}% resets `page` counter to 1
+%\renewcommand*{\thepage}{A\arabic{page}}
+%\appendix
+\section{Abstracts}
+\subsection*{List of Abstracts}
+\begin{enumerate}[label=A\arabic*]
+\item B. Smith, Dept of Hard Sums, University of Central Nowhere, {\em Exact coherent state solutions in channel flow}
+
+\item A. Jones, Dept of Long Multiplication, Royal University of Somewhere, {\em New Exact Coherent States in Channel Flow}
+\end{enumerate}
+\newpage
+\pagenumbering{arabic}% resets `page` counter to 1
+\renewcommand*{\thepage}{A\arabic{page}}
+%\pageref{ab:smith}
+\includepdf[pagecommand={}, ]{abstracts/Smith.pdf}
+%\pageref{ab:jones}
+\includepdf[pagecommand={}]{abstracts/Jones.pdf}
+
+

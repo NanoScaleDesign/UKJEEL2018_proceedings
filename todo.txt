@@ -1,0 +1,50 @@
+Major issues
+--------------
+
+1) Design front cover
+
+2) Sort out arrangement of programme 
+
+3)Organis
+
+3) List of participants needs to be inserted
+(File/ Format already created)
+
+4) Need description of Kyushu University
+(File/ Format already created)
+
+5) DO we also need a brief summary of UKJEEL ?
+When was the first, where previous ones have been held,
+what sort of content, what is the basic aim ?
+
+6)Need details of Tours inserted
+
+7) List of abstracts
+- file/format created , just need to insert real data
+
+
+---------------------------
+Minor Issues
+
+1) SLightly reduce the size of 'Contents' in the table of contents?
+ (or increase the size of the sectional headings). Problem has arisen 
+ because we are using 'book' template but do not have chapters
+
+2) Organising committee
+  - DO we have everyone ? How about Yasuda sensei ? Also there
+ was a female assoc. prof. (can't remember her name unfortunately) -anyone else?
+
+3) Is the group photo (see programme) before or after lunch ?
+
+
+4) Are there any abstracts for main speakers?  
+
+
+5) Consider putting background block colours into programme
+ for easy comprehension. e.g. light pink for all participants,
+ light blue for students only , light yellow for faculty only
+
+6) (For pdf version) customize hyperlinking 
+Status: underway
+
+ 

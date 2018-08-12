@@ -1,11 +1,8 @@
-\section{Scientific Programme}
+\section{Programme}
 
-%\subsection*{Monday}
-\begin{center}
-{\bf \large Monday}
-\end{center}
-\vspace*{3ex}
-Morning session (Venue: Nishijin Plaza, Fukuoka)\\
+\subsection*{Monday}
+
+Morning session \\
 Chair: Assoc. Prof. James Cannon, Kyushu University
 
 \noindent\begin{tabular}{|l|l|}
@@ -13,23 +10,22 @@ Chair: Assoc. Prof. James Cannon, Kyushu University
     08:30   & Doors open \\
     09:00   & Registration desk opens \\
     09:30   & Kyushu University welcoming remarks \\
-            & \emph{Prof. Yoshio Hisaeda, Dean of Engineering, Kyushu University} \\
+            & \emph{Yoshio Hisaeda, Dean of Engineering, Kyushu University} \\
     09:45   & UKJEEL welcoming remarks \\
             & \emph{Prof. Roderick A Smith, Imperial College London, UKJEEL chair} \\
-    10:00   & Keynote lecture: Challenge for unlimited molecular design aiming for high\\
-            &  \hspace{7.5em} performance organic optoelectronic devices \\
-            & \emph{Prof. Chihaya Adachi, Director of the Centre for Organic Photonics}\\
-            & \emph{and Electronics Research, Kyushu University} \\
+    10:00   & Keynote lecture: Challenge for unlimited molecular design aiming for high \\
+            & \hspace*{7.5em}  performance organic optoelectronic devices \\
+            & \emph{Prof. Chihaya Adachi, Director of the Centre for Organic Photonics\\
+            & and Electronics Research, Kyushu University} \\
     10:40   & \emph{break} \\
     10:50   & Keynote lecture: Low dimensional materials for thermal application \\
-            & \emph{Prof. Koji Takahashi, Dept. of Aeronautics and Astronautics, Kyushu University} \\
+            & \emph{Koji Takahashi, Dept. of Aeronautics and Astronautics, Kyushu University} \\
     11:30   & Lunch \& group photo \\
     \hline
 \end{tabular}
 
-\newpage
-\vspace{-3em}
-\noindent Afternoon session (Venue: Nishijin Plaza, Fukuoka)\\
+\vspace{2em}
+\noindent { Afternoon session} \\
 Chair: Prof. Yamada, Graduate School of Engineering, Kyushu University
 
 \noindent\begin{tabular}{|l|l|}
@@ -38,14 +34,12 @@ Chair: Prof. Yamada, Graduate School of Engineering, Kyushu University
     13:30   & Poster session \\
     \emph{Faculty} & \\
     \hspace{1em}\emph{15:00} & Introduction by Prof. Kikuo Kishimoto, Tokyo Institute of Technology \\
-    \hspace{1em}\emph{15:05} & Lecture: Assessment of Engineering Learning Outcomes Linking Abstract\\
-                             & Program-level Competencies with Concrete/Course-level Learning \\
-                             & Outcomes \\  
-            & \emph{Prof. Sakoto Fukahori,   UEII, Kyushu University} \\
+    \hspace{1em}\emph{15:05} & Lecture: Assessment of Engineering Learning Outcomes Linking Abstract/Program-level Competencies with Concrete/Course-level Learning Outcomes \\
+            & Sakoto Fukahori, Kyushu University \\
     \hspace{1em}\emph{15:35} & Round-table discussion (finish 17:00) \\
     \emph{Students} & \\
     \hspace{1em}\emph{15:00} & Groupwork event (finish 18:00) \\
-            & Chair: {\em Prof. Yasuyuki Takata, Kyushu University} \\
+            & Chair: Prof. Yasuyuki Takata, Kyushu University \\
     17:15 \& 18:15   & Depart from Nishijin plaza \\
     19:00   & Dinner at Daruma-ya \\
     \hline
@@ -53,26 +47,26 @@ Chair: Prof. Yamada, Graduate School of Engineering, Kyushu University
 
 \subsection*{Tuesday}
 
-\vspace{3ex}
-Morning session (Venue: Nishijin Plaza, Fukuoka)\\
-Chair: Prof. Sakoto Fukuhori,  The University Education Innovation Initiative, Kyushu University
+\vspace{2em}
+Morning session \\
+Chair: Prof. Sakoto Fukuhori, Kyushu University
 
 \noindent\begin{tabular}{|l|l|}
     \hline
     09:55   & Announcements \\
     10:00   & Practical experience of implementing efficient Active Learning in the classroom \\
-            & \emph{Assoc. Prof. James Cannon, Dept. of Mechanical Engineering, Kyushu University} \\
+            & \emph{James Cannon, Dept. of Mechanical Engineering, Kyushu University} \\
     10:30   & The ins and outs of MOOC making \\
-            & \emph{Prof. David Stewart, School of Engineering, Tokyo Institute of Technology} \\
+            & \emph{David Stewart, School of Engineering, Tokyo Institute of Technology} \\
     11:00   & Tokyo Tech’s edX MOOC production process, learning analytics, and course utilization examples (on and off-campus) \\
-            & \emph{Prof. Jeffery Cross, Dept. of Trandisciplinary Science and Engineering, Tokyo Institute of Technology} \\
+            & \emph{Jeffery Cross, Dept. of Trandisciplinary Science and Engineering, Tokyo Institute of Technology} \\
     11:30   & Discussion \\
     12:00   & Lunch time and student discussion time \\
 
     \hline
 \end{tabular}
 
-\noindent Afternoon session (Venue: Nishijin Plaza, Fukuoka and Kyushu University, Ito Campus) \\
+\noindent Afternoon session \\
 Chair: Prof. Yasuyuki Takata, Dept. of Mechanical Engineering, Kyushu University
 
 \noindent\begin{tabular}{|l|l|}
@@ -81,8 +75,7 @@ Chair: Prof. Yasuyuki Takata, Dept. of Mechanical Engineering, Kyushu University
     14:30   & Closing remarks and announcements \\
     14:40   & Departure to Ito campus \\
     15:30   & Laboratory tours [locations to be mentioned here] \\
-    \hspace{1em}$\mid$  & \\
-    17:30   & \\ %Finish lab tours \\
-    18:00   & Conference Banquet at Suginoya \\
+    17:30   & Finish lab tours \\
+    18:00   & Banquet at Suginoya \\
     \hline
 \end{tabular}
