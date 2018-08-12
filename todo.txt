@@ -5,23 +5,51 @@ Major issues
 
 2) Sort out arrangement of programme 
 
-3)Organis
+3)Organising committee
+  - DO we have everyone ? How about Yasuda sensei ? Also there
+ was a female assoc. prof. (can't remember her name unfortunately) -anyone else?
 
-3) List of participants needs to be inserted
+ 
+4) List of participants needs to be inserted
 (File/ Format already created)
 
-4) Need description of Kyushu University
+5) Need description of Kyushu University
 (File/ Format already created)
 
-5) DO we also need a brief summary of UKJEEL ?
+6) DO we also need a brief summary of UKJEEL ?
 When was the first, where previous ones have been held,
 what sort of content, what is the basic aim ?
 
-6)Need details of Tours inserted
+7)Need details of Tours inserted
 
-7) List of abstracts
+8) List of abstracts
 - file/format created , just need to insert real data
 
+9) Re: abstracts as stored on google drive:
+i) I cannot find an abstract for Mr. Chitiphon Chuaicham although he appears in the list
+ii) There are two pdfs for Fujiki's presentation, I am presuming the pdfs are identical 
+iii) There does not seem to be a valid pdf for Kumagai - so I have not entered him/her 
+ in the list of abstracts
+
+
+10) Delete header on the abstract pages and replace with footer
+   (or otherwise edit)
+
+
+
+11) We must also check if the current format will print properly, or whether 
+    we need to re-organise the pages. That is, as we currently have things,
+    the  front page, inner front cover , inner back cover and back cover 
+must be printed on the same piece of paper. On the next sheet of paper we must have
+the first (non-cover) page , the page following that, the first and second pages on the inside
+going from the rear if you see what I mean . i.e. We are doing two-page per-side duplex
+printing in such a way that when the pieces of paper are stacked up and stapled in the middle
+they are all in the right-order. Whether this can be done at the printing stage,
+ or whether there is some latex template set up for such a job requires investigation.
+
+12) I would suggest an inside formal title page after the programme and before the
+contents page giving formal name of he conference, dates, venue and maybe  our names as 
+ editors of the proceedings. 
 
 ---------------------------
 Minor Issues
@@ -47,4 +75,4 @@ Minor Issues
 6) (For pdf version) customize hyperlinking 
 Status: underway
 
- 
+
