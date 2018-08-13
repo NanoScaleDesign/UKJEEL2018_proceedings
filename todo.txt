@@ -2,38 +2,66 @@ Major issues
 --------------
 
 1) Design front cover
+ [13/8 JC]
+    Done.
 
 2) Sort out arrangement of programme 
+ [13/8 JC]
+    I've tried to adjust the lengths of the lines and page breaks.
 
-3)Organising committee
+3) Organising committee
   - DO we have everyone ? How about Yasuda sensei ? Also there
  was a female assoc. prof. (can't remember her name unfortunately) -anyone else?
-
+ [13/8 JC]
+    Added Yasuda-sensei and Miura-sensei.
+    Checked the committee mailing list and I think we have everyone from the committee at least.
  
 4) List of participants needs to be inserted
 (File/ Format already created)
+ [13/8 JC]
+    I didn't have time to do things like affiliations, so I just went with names.
 
 5) Need description of Kyushu University
 (File/ Format already created)
+ [13/8 JC]
+    This is covered to an extent by Prof. Hisaeda's introduction text.
+    If there's time we could write something more about this.
+    For the moment I've taken it out.
 
-6) DO we also need a brief summary of UKJEEL ?
+6) Do we also need a brief summary of UKJEEL ?
 When was the first, where previous ones have been held,
 what sort of content, what is the basic aim ?
+ [13/8 JC]
+    No, I don't think so. This wasn't present in 2016.
 
 7)Need details of Tours inserted
+ [13/8 JC]
+    In the absence of detailed information and pictures I took it out.
+    If time permits to gain further detailed information, we can add it in.
 
 8) List of abstracts
 - file/format created , just need to insert real data
+ [13/8 JC]
+    Can you clarify? This looks like real data to me.
 
 9) Re: abstracts as stored on google drive:
 i) I cannot find an abstract for Mr. Chitiphon Chuaicham although he appears in the list
+ [13/8 JC]
+    It's there. I've added it to the list.
 ii) There are two pdfs for Fujiki's presentation, I am presuming the pdfs are identical 
+ [13/8 JC]
+    They are. I've deleted the odd one.
 iii) There does not seem to be a valid pdf for Kumagai - so I have not entered him/her 
  in the list of abstracts
+ [13/8 JC]
+    Fixed.
 
 
 10) Delete header on the abstract pages and replace with footer
    (or otherwise edit)
+ [13/8 JC]
+    I shrunk the abstracts to 95% and offset them.
+    If you have a better solution, by all means go ahead.
 
 
 
@@ -46,10 +74,16 @@ going from the rear if you see what I mean . i.e. We are doing two-page per-side
 printing in such a way that when the pieces of paper are stacked up and stapled in the middle
 they are all in the right-order. Whether this can be done at the printing stage,
  or whether there is some latex template set up for such a job requires investigation.
+ [13/8 JC]
+    This is managed by the printing company.
+    As long as the number of pages is a multiple of 4, they will manage the left-right printing correctly.
 
 12) I would suggest an inside formal title page after the programme and before the
 contents page giving formal name of he conference, dates, venue and maybe  our names as 
  editors of the proceedings. 
+ [13/8 JC]
+    I started making "innertitle.tex" but ran out of time.
+
 
 ---------------------------
 Minor Issues
@@ -61,18 +95,24 @@ Minor Issues
 2) Organising committee
   - DO we have everyone ? How about Yasuda sensei ? Also there
  was a female assoc. prof. (can't remember her name unfortunately) -anyone else?
+ [13/8 JC]
+    Added them both.
 
 3) Is the group photo (see programme) before or after lunch ?
+ [13/8 JC]
+    I guess before
 
 
 4) Are there any abstracts for main speakers?  
+ [13/8 JC]
+    No
 
 
 5) Consider putting background block colours into programme
  for easy comprehension. e.g. light pink for all participants,
  light blue for students only , light yellow for faculty only
+ [13/8 JC]
+    Differentiating participants is difficult so I didn't.
 
 6) (For pdf version) customize hyperlinking 
 Status: underway
-
-

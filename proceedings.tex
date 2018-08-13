@@ -6,6 +6,7 @@
 \usepackage{wrapfig}
 \usepackage{enumitem} %[DW] used to get custome enumerate (in abstract list)
 \usepackage{xcolor}
+\usepackage{hyperref}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % [DW] customise footer / header  -start
@@ -38,14 +39,15 @@
 \renewcommand{\arraystretch}{1.25} % Increase the vertical padding about table cells
 
 \include{frontpage}
+%\include{innertitle}
 \include{schedule}
 \include{contents}
 \mainmatter %[DW] Can only be used with 'book'
 \include{forewords} % Smith, Hisaeda
 \include{organisers}
 \include{participants} % List of participants
-\include{kyudai} % Information about Kyushu University
-\include{tour} % Tour information
+%\include{kyudai} % Information about Kyushu University
+%\include{tour} % Tour information
 \include{abstracts} % Title page + PDF inserts of abstracts
 \backmatter %[DW] Can only be used with 'book'
 \include{maps}
