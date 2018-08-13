@@ -1,9 +1,7 @@
-\contentsline {section}{\numberline {1}Scientific Programme}{ii}
-\contentsline {section}{\numberline {2}Welcome from Prof. Yoshio Hisaeda}{1}
-\contentsline {section}{\numberline {3}Welcome from Prof. Roderick A Smith}{2}
-\contentsline {section}{\numberline {4}Conference organising committee}{3}
-\contentsline {section}{\numberline {5}List of Participants}{4}
-\contentsline {section}{\numberline {6}Kyushu University}{5}
-\contentsline {section}{\numberline {7}Tour Details}{6}
-\contentsline {section}{\numberline {8}Abstracts}{7}
-\contentsline {section}{\numberline {9}Maps}{B1}
+\contentsline {section}{\numberline {1}Scientific Programme}{ii}{section.0.1}
+\contentsline {section}{\numberline {2}Welcome from Prof. Yoshio Hisaeda}{1}{section.0.2}
+\contentsline {section}{\numberline {3}Welcome from Prof. Roderick A Smith}{2}{section.0.3}
+\contentsline {section}{\numberline {4}Conference organising committee}{3}{section.0.4}
+\contentsline {section}{\numberline {5}List of Participants}{4}{section.0.5}
+\contentsline {section}{\numberline {6}Abstracts}{5}{section.0.6}
+\contentsline {section}{\numberline {7}Maps}{B1}{section.0.7}

@@ -20,6 +20,11 @@ Major issues
 (File/ Format already created)
  [13/8 JC]
     I didn't have time to do things like affiliations, so I just went with names.
+[14/8 DW]
+- SUggest we do add affiliations, but don't think it can be done today-
+just add a note in the email to let people know we intend to do it (if there 
+is still time)
+
 
 5) Need description of Kyushu University
 (File/ Format already created)
@@ -43,6 +48,8 @@ what sort of content, what is the basic aim ?
 - file/format created , just need to insert real data
  [13/8 JC]
     Can you clarify? This looks like real data to me.
+[14/8 DW]
+ Yes, sorry forgot to update this I have now put real data in. 
 
 9) Re: abstracts as stored on google drive:
 i) I cannot find an abstract for Mr. Chitiphon Chuaicham although he appears in the list
@@ -62,7 +69,13 @@ iii) There does not seem to be a valid pdf for Kumagai - so I have not entered h
  [13/8 JC]
     I shrunk the abstracts to 95% and offset them.
     If you have a better solution, by all means go ahead.
-
+[14/8]
+ We may as well go with your above soln tonight for the current draft version.
+ I had a thought that adding and correctly positioning the page number A1, A2,...
+ (which also serve as abstract ref. no) so that they appear just after the 'Abstract'
+ that appears in the top left corner of each abstract pdf might be a good soln,
+ though may require some fiddling to get it in the right place. Your current soln looks
+ reasonable though, so long as the text is still large enough to be legible.
 
 
 11) We must also check if the current format will print properly, or whether 
