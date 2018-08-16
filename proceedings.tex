@@ -38,11 +38,12 @@
 \begin{document}
 \frontmatter %[DW] Can only be used with 'book'
 \renewcommand{\arraystretch}{1.25} % Increase the vertical padding about table cells
-
+\pagestyle{empty}
 \include{frontpage}
 \include{innertitle}
-\include{contents}
+\pagestyle{fancy}
 \mainmatter %[DW] Can only be used with 'book'
+\include{contents}
 \include{schedule}
 \include{forewords} % Smith, Hisaeda
 \include{organisers}

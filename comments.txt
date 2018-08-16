@@ -1,0 +1,164 @@
+[1] From Jeffrey Cross:
+1. Do you want to include the meeting room names, 1st Fl, 2nd Fl in the program (pages ii-iv) ? 
+2. Are you planning to announce the student group work topics separately (not include in the program, p iii)?
+3. Will best presentation awards will be given? If so it would be good to include in the program ?
+4. The (blue, red) highlights will be removed during printing, cover, vii?
+5. Poster session runs until 14:50? 
+6. 17:15, 18:15 departures by bus? (faculty & students separate?)
+
+Response:
+1) No response - perhaps not needed (or even not yet decided ?)
+2) Now included
+3) Now included
+4) Yes, the hyper links will be removed before printing, and retained just for the pdf version
+  todo - change appearance of hyperlinks (e.g. make text different colour)
+5) This is a good point,  it would probably be a good idea to introduce a 10 min break at 
+ 14:50, otherwise it appears to be a 4hour (faculty) 5 hour (students) session
+
+[2]From Chen sensei
+
+１．Scientific program（単独印刷なら別ですが）とContentsの順番は逆になっていませんか。
+２．センタースタッフの所属の前にDept.は削除してください。
+　正式にはInternational Education Support Center for Engineering, Kyushu Universityです。
+３．わたしの名前の英文表記は　Qiang Chenで統一してください。
+４．参加者リストはアルファベット順で、名前の後ろに括弧付きでタイトル（Prof. Dr. Mr./Ms., etc. ）、所属大学で表示した方がわかりやすいと思います。
+　例えば、Qiang Chen (Prof. / Kyushu University, Japan)
+
+1. Revised
+2. Revised
+3. Revised
+4. Revised -  I have noticed that all the (Japanese) Assistant Prof. are listed as Dr in the list.
+             I would personally suggest just making them all Prof. ? i.e. not try to translate
+             one system into another.
+             *) Incidentally I have changed things to suit the UK rather than the US notation, i.e. Professor -> Prof.
+               (truncation), but Mister -> Mr (contraction)
+  
+[3] Maruno san
+プロシーディングスの9月5日スケジュールについて、「17:30 Arraival in Tenjin」となっておりますが、
+18：00に変更をお願いいたします。
+- revised
+
+[4]Kohno sensei
+
+(1)＝＝＝＝＝表紙
+伊都キャンパス記念行事のロゴを追加して下さい．
+（添付ファイルからお好きなものをお選び下さい）
+＝＝＝＝＝＝＝プログラム
+
+(2) P2.．高橋先生の講演タイトル：変更予定です．しばらくお待ち下さい．
+
+(3) P.3.．岸本先生は東工大を退職されていますので，東工大名誉教授として下さい．
+（東工大の先生方，ご確認よろしくお願い申し上げます．）
+
+(4) P.3．高田先生は機械の高田先生はありません．高田仁先生です．
+（山田先生ご確認よろしくお願い申し上げます．）
+http://hyoka.ofc.kyushu-u.ac.jp/search/details/K000648/english.html
+
+(5) P.3．懇親会会場が変更になりました．
+丸埜さん情報をカノン先生にお送り下さい．
+
+(6) P.4．Fukahoriです．
+http://hyoka.ofc.kyushu-u.ac.jp/search/details/K006878/english.html
+
+(7) P.4．高田先生の修正をお願いします．
+
+(8)P.4　懇親会終了後に送迎バスを出します．
+予定では学研都市駅行き1台，天神・博多方面に1台です．
+
+(9)P.5．丸埜さん，雨天の場合は八女でよろしかったでしょうか．
+
+==========参加者リスト
+(10) P.4　直前にキャンセルや駆け込みでの参加もあると思いますので，
+参加者リストは別紙で配布するのも一案です．
+（皆様，ご意見よろしくお願い申し上げます．）
+
+＝＝＝＝＝＝会場マップ
+(11) 1階：学会で使用しない部屋等の写真は消しましょう．（Office space for rent）と
+（Industrial・・・・）（Building・・・）またDisplay areaの写真の横に「Poster, Lunch」と記載すると
+良いかも知れません．
+
+(12) 2階：学会と無関係な写真は消しましょう．Large conference roomと
+Midium conference room のみを残しましょう．
+
+＝＝＝＝＝＝懇親会の会場の地図
+(13) Cross先生からご指摘済みですが，杉能舎さんには単独では行きづらいので，
+見学会から一緒に移動することをお進めする的な表現を入れて下さい．
+
+
+(1) Revised
+(2) Pending
+(3) Revised
+(4) Revised
+(5) Revised
+(6)  Revised
+(7)  Revised
+
+(8) [DW] I have appended   'return coach transport provided'
+(9) Pending
+(10)[DW] I would suggest doing both -i.e. having a list of participants inside, then distribute an updated list at the conference, and update the pdf appropriately
+(11),(12)[DW]  I think your change is  good enough. Someone may come back at us and suggest 
+    getting rid of the (now redundant) arrows, but I imagine this is difficult to do, and to make 
+     such a map from scratch would be time consuming.
+(13) revised
+
+
+[5] Maruno san
+P.3．懇親会会場が変更になりました．
+
+→9/3 会場名前：　海の路（Uminomichi）
+
+　住所：B1,Tenjin Kimuraya Bldg, 1-12-3, Tenjin, Chūō-ku, Fukuoka-shi, Fukuoka-ken, 810-0001
+
+　地図リンク(英)　https://goo.gl/maps/hGHxS8Garsp
+
+
+- programme revised, and  also insert maps / address inserted.
+
+
+[6] Hisaeda sensei
+ざっと見ましたが、所属を確認して下さい。
+たとえば、山田鉄兵先生がDept. of Chemical Engineeringになってますが、Dept. of Applied Chemistry では。
+
+皆さんのコントを参考に改訂よろしくお願いいたします。
+
+久枝良雄
+
+
+-this one has been corrected
+
+[7] Kohno sensei /Maruno san
+
+P.5．雨天の場合は八女でよろしかったでしょうか．
+
+→雨天時も柳川と認識しておりました。定番ですが、観光スポット御花でしたら、
+　予約不要で当日の団体受入れが可能です。(料金：1人500円)
+　人数が多いので、西洋館と史料館で分かれて観光することになるかと存じます。
+　
+
+- think the upshot of this interchange was that no change was required?
+
+
+
+[8] Teppei Yamada
+(1)Pii　8:30 Door Openは不要です。
+(2)Piii, iv Megumi Takata先生です。
+(3) Pv 集合時間を記入したほうが良いです。8:45までに集合でお願いします。
+(4) Pvii 前のほうが良いです。Pii-vまでは、目次の後ろでも良いのでは？
+
+(1) revised
+(2) revised
+(3) revised
+(4) revised
+
+
+
+[9] Wall
+ 
+(1) page (iv) not required
+(2) insert also address / map of suginoya to be complete
+(3) Ideally a short summary programme placed on the rear cover?
+
+
+(1) revised
+(2) included - James do you think you could add a QR code ?
+(3) pending - see if time is available
