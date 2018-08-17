@@ -162,3 +162,133 @@ P.5．雨天の場合は八女でよろしかったでしょうか．
 (1) revised
 (2) included - James do you think you could add a QR code ?
 (3) pending - see if time is available
+
+
+
+==============================================================
+==============================================================
+[1] Takamatsu comments
+１．表紙のタイトル"Proceedings of ....."は左インデントを空の空間に合せて
+変えてありますが，センタリングした方がよくないですか？或いは右詰めでも．
+２．表紙の左下の"Ito New Campus"の右側の灰色の余白が小さすぎますね．
+３．初日の午後のスケジュール（p.3）は，Poster sesseiin，Faculty round-
+table discussion，Student groupworkをそれぞれ枠で区切った方がわかりやすい
+と思います．そして，それぞれChairを山田先生，岸本先生，高田先生
+（Instructor？)にして枠の上側に表示したほうがいいと思います．
+４．深堀先生は二日とも参加されると思いますので，参加者のリストに入れてお
+く必要があると思います．
+５．リストがアルファベット順なのに，最後がKumagaiという人になっています．
+６．次回のアナウンスメントは含めていいと思います．
+７．ベストプレゼンテーションも結構ですが，内容で選ぶのですか？皆さん，一
+番と二番を選ぶ自信ありますか？選ぶ以上は真剣にする必要があるので，すごく
+大変になります．Worthwhileですかね？
+
+1) Revised. [DW] My own preference would be to have the 3 lines 
+     of text centred, but I will leave the final decision up to you
+2) Revised
+3) Revised
+4) Revised
+5) Revised
+6) Revised [DW] I have also inserted an additional section with currently a 
+   single sentence about UKJEEL 2019. THis presumes Queen Mary is definite, is that so?
+   I was thinking we could later (after UKJEEL 2018 has finished) insert additional 
+ details or maybe an html link etc. on this page in the pdf version of the proceedings
+   (which I am presuming we will place on this year's conference website)
+7)??  From the above I assume Takamatsu sensei here saying he doesn't think a 'best presentation' award 
+     is a good idea?
+
+
+[2] Teppei Yamada
+
+(1)表紙の
+Hosted by Kyushu University, Faculty of Engineering  
+Supported by Eight-University Engineering Association
+and 6U-HAPPIER
+も加えてはいかがでしょうか。
+
+(2)またご相談なのですが、今回の高田先生にお願いした教育プログラムについて、
+Cooperated with Open Education Graduate School Project for Super-Health Innovation Science
+というような追記をお願いしたいのですが、可能でしょうか。
+
+この件、今度の会議で少しお話させていただけますと助かります。
+
+ぎりぎりのお願いになりすいませんが、よろしくお願いいたします。
+
+山田
+
+
+先生方
+
+(3)度々すいません。
+Cooperated以下のものは、
+今回の内容に関係ないので、
+無視して頂ければ幸いです。
+
+スポンサーシップについてのみ追記した方がいいように思います。
+
+よろしくお願いします。
+
+山田
+
+
+(1) No revision ? Presumably becuase all the LOGOS are there anyway
+  and the page maybecome too crowded ??
+(2) No longer required according to (3) 
+
+
+[3] Kohno
+
+(1)【高橋先生の講演タイトル】
+以下のタイトルに変更依頼が来ています．
+Nanomaterials and nanobubbles for heat transfer
+
+ 
+
+(2) KeynoteのAdachi，Takahashiの両先生
+Megumi Takata先生
+Fukahori先生（高松先生ご指摘済み）
+
+(3)【クロージングでの，次年UKJEEL@Queen Maryの紹介】
+是非ともしていただければ幸いです．
+お話しするのは「Professor Wen Wang」さんでしょうか？
+そうであればプロシーディングスに記載しても良いと思います．
+
+
+
+ウォール先生　カノン先生
+
+河野です．
+度々申し訳ありません．
+
+
+カノン先生
+昨日頂戴したWang先生に関するメールですが，
+次回はQueen’s University Belfastと認識していたことと，
+私の不注意で内容を一部誤解しておりました．
+失礼をお詫び申し上げます．
+
+(4)【ポスター賞】
+最近，なにかと「受賞歴」を求められる事から，
+学生に対してチャンスを与えることは良いことだと思いますが，
+１．審査方法や選考方針をどうするか？
+２．実際に審査を行うのは大変である．
+３．よく議論になる事ですが，学生の「研究テーマの良し悪し」や「研究成果」は
+指導教員に大きく依存するため，「学生本人の力が何処まで反映されているか不明瞭である」
+とのことから，現段階で実施の有無を決めるのは困難であると思います．
+プロシーディングスへの記載は見送りたいと考えていますが，如何でしょうか？
+
+以上，よろしくお願い申し上げます．
+
+
+(1) revised
+(2) revised
+(3) revised (see previous comments)
+(4) Not revised. He is suggesting to remove the best poster award ?
+    
+
+[4] Wall
+1) When finally all the suggestions / comments are in, I suggest we give it a 
+ final once over just to check the abstract numbers correspond with the abstracts,
+ any spelling mistakes etc.
+
+
