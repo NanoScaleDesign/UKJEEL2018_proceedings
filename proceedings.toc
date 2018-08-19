@@ -3,6 +3,5 @@
 \contentsline {section}{\numberline {3}Welcome from Prof. Roderick A Smith}{8}{section.0.3}
 \contentsline {section}{\numberline {4}Conference organising committee}{9}{section.0.4}
 \contentsline {section}{\numberline {5}List of Participants}{10}{section.0.5}
-\contentsline {section}{\numberline {6}UKJEEL 2019}{13}{section.0.6}
-\contentsline {section}{\numberline {7}Abstracts}{14}{section.0.7}
-\contentsline {section}{\numberline {8}Maps}{B1}{section.0.8}
+\contentsline {section}{\numberline {6}Abstracts}{13}{section.0.6}
+\contentsline {section}{\numberline {7}Maps}{B1}{section.0.7}
